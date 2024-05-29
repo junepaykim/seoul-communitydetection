@@ -1,0 +1,24 @@
+Community 0: 종로구
+Community 1: 중구
+Community 2: 용산구
+Community 3: 성동구
+Community 4: 광진구
+Community 9: 동대문구, 양평군
+Community 18: 중랑구, 구리시, 남양주시, 가평군
+Community 8: 성북구, 강북구
+Community 10: 도봉구, 노원구, 의정부시, 동두천시, 양주시, 포천시, 연천군
+Community 11: 은평구, 덕양구, 일산동구
+Community 13: 서대문구, 마포구, 일산서구, 파주시
+Community 15: 양천구, 강서구, 중구, 계양구, 서구, 강화군, 김포시
+Community 16: 구로구, 금천구, 동구, 남동구, 부평구, 옹진군, 만안구, 부천시, 광명시, 상록구, 단원구, 시흥시, 군포시
+Community 23: 영등포구, 남구, 연수구
+Community 19: 동작구
+Community 17: 관악구
+Community 14: 서초구, 장안구, 권선구, 팔달구, 동안구, 과천시, 오산시, 의왕시, 용인시
+Community 22: 강남구, 영통구, 분당구, 용인시, 용인시
+Community 20: 송파구, 수정구, 중원구, 광주시
+Community 6: 강동구, 하남시
+Community 12: 평택시
+Community 5: 이천시
+Community 21: 안성시, 화성시
+Community 7: 여주시
